@@ -1,0 +1,1 @@
+1. Request ID should be validated every time to avoid duplicate request for same transaction
